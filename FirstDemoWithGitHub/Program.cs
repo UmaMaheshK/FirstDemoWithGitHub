@@ -10,6 +10,8 @@ namespace FirstDemoWithGitHub
     {
         static void Main(string[] args)
         {
+            string name = "Uma Mahesh";
+            Console.WriteLine(name);
         }
     }
 }
