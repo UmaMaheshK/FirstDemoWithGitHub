@@ -12,7 +12,8 @@ namespace FirstDemoWithGitHub
         {
             string name = "Uma Mahesh";
             Console.WriteLine(name);
-            Console.WriteLine(name);
+            string sirName = "Kondapalli";
+            Console.WriteLine(sirName);
         }
     }
 }
