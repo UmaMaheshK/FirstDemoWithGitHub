@@ -12,7 +12,7 @@ namespace FirstDemoWithGitHub
         {
             string name = "Uma Mahesh";
             Console.WriteLine(name);
-            Console.Read();
+            Console.WriteLine(name);
         }
     }
 }
